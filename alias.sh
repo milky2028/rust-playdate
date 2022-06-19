@@ -1,0 +1,1 @@
+alias run-rust="cargo run --bin main"
